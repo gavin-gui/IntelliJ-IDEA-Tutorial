@@ -16,8 +16,7 @@
 	- `07_翻译插件显示气泡`
 	- `08_把插件上传到公共仓库`
 - 视频教程下载地址
-	- 原下载地址：<http://pan.baidu.com/s/1nv79ptZ>
-	- 备用下载地址：<http://pan.baidu.com/s/1eSoQHoA>，密码：gqo2，如果哪天下载地址失效，请在本 Github 项目发 Issues。
+	- 下载地址：<https://pan.baidu.com/s/1i7grrpV>，密码：gnpl，如果哪天下载地址失效，请在本 Github 项目发 Issues。
 - 这套教程视频不是本人录制的，所以需要特别强调下，本套视频来自：[传智播客公开课：Android Studio插件开发](http://open.itcast.cn/java/14-539.html)，在此特别感谢别人的付出（鞠躬）。
 
 ## 其他图文资料介绍
@@ -40,6 +39,7 @@
 
 - 阅读别人插件有助于你的开发，希望你有一天能开发一个好用的插件。
 - IntelliJ IDEA 的大量插件都是开源的，如果你有遇到你喜欢的插件，可以到 JetBrains 官网上找到这个插件的主页，很有可能在介绍中就有 Github 地址。感谢 Github 的存在。
+- [我写的插件：ChineseTypography，也是一个最简单的插件](https://github.com/judasn/ChineseTypography-IDEA-Plugin)
 - <https://github.com/Skykai521/ECTranslation>
 - <https://github.com/YiiGuxing/TranslationPlugin>
 - <https://github.com/avast/android-butterknife-zelezny>
